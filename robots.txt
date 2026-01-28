@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bonumnigeria.github.io/sitemap.xml
+Sitemap: https://sliceworks.github.io/bonumnigeria/sitemap.xml
